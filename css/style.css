@@ -1,0 +1,54 @@
+/* Formatação header */
+
+header {
+    display: flex;
+    margin: 0 0 8vw 0;
+}
+header img {
+    margin: 3vw 0 0 8vw;
+    
+}
+
+header nav ul {
+    display: flex;
+    margin: 3vw 0 0 70vw;
+}
+header nav ul li p {
+    margin: 0 0 0 15px;
+}
+
+/* Formatação banner */
+
+section.banner {
+    display: flex;
+    margin: 10vw 15vw 10vw 22vw;
+}
+section.banner div:last-child {
+    margin: 5vw 0 12vw 13vw;
+}
+section.banner div:last-child h1 {
+    margin: 0 0 7vw 0;
+    font-size: 3vw;
+    font-weight: none;
+}
+section.banner div:last-child p {
+    color: #404852;
+}
+
+/* Formatação browser */
+
+section.browse {
+    display: flex;
+    margin: 0 5vw 0 5vw;
+}
+section.browse div:first-child h1 {
+    margin: 0 0 2vw 3vw;
+    font-size: 3vw;
+}
+section.browse div:first-child p {
+    margin: 2vw 0 0 3vw;
+    color: #404852;
+}
+section.banner div.online ul: {
+    color: #404852;
+}
